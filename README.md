@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=faizee-f&theme=dark&date_format=j%20M%5B%20Y%5D&border=DDDDDD&stroke=DDADAD)](https://git.io/streak-stats)
 <!--
 **faizee-f/faizee-f** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
