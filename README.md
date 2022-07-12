@@ -1,5 +1,7 @@
 ### Hi there 👋, I'm Fayis
 
+I'm a Full-Stack Developer
+
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=faizee-f&theme=dark&date_format=j%20M%5B%20Y%5D&border=DDDDDD&stroke=DDADAD)](https://git.io/streak-stats)
